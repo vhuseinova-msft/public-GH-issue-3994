@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+        'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+        sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+        monospace;
+}
+
+iframe#webpack-dev-server-client-overlay {
+    display: none;
+  }
+
+.ant-divider-plain.relic-facility-divider {
+    color: rgb(91, 95, 199) !important;
+    border-color:  rgb(91, 95, 199) !important;
+    font-family: "Segoe UI", "Segoe UI Web (West European)", "Segoe UI", -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif !important;
+    font-weight: 700 !important;
+    font-size: 0.75rem !important;
+}
+.rjsf button.ant-btn {
+    font-family: "Segoe UI", "Segoe UI Web (West European)", "Segoe UI", -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif !important;
+}
+.rjsf .ant-space-item {
+    padding: 0 5px 0 0;
+}
+.rjsf fieldset {
+    padding: 5px 0;
+}
+.rjsf #switchAgent .control-label {
+    display: none;
+}

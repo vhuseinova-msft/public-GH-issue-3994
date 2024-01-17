@@ -1,0 +1,15 @@
+.header {
+  width: 100%;
+  background: rgb(71, 227, 255);
+  height: 200px;
+  text-align: center;
+  line-height: 200px;
+  font-size: 3em;
+  color: white;
+  background-image: linear-gradient(to right, rgba(0, 31, 97, 0.8), rgba(66, 238, 244, 0.5)),
+    url("../assets/homebg.jpg");
+  background-size: cover;
+  border-radius: 0;
+  padding: 0 20px;
+  user-select: none;
+}

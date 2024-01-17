@@ -1,0 +1,262 @@
+{
+  "data": [
+    {
+      "id": "1ae2ca6a-0a23-4987-afb0-6453219095a6",
+      "object": "client",
+      "createdAt": "2023-09-12T08:50:04Z",
+      "givenName": "Amanda",
+      "familyName": "Thompson",
+      "email": "amanda.thompson@ssl.health",
+      "companyId": "50114cf4-f3c9-45a7-b9a4-57fdb9e0a9e4",
+      "status": "notInvited",
+      "inviteUrl": "https://portal.reliccare.com/u/zigazIiIg",
+      "lastLoginDate": null,
+      "lastActiveDate": null,
+      "customFields": {
+        "guid": "c8ff4993-f646-91ea-f261-c8622dd1500a",
+        "title": "Executive Director"
+      }
+    },
+    {
+      "id": "6dadece4-5df2-4799-a517-b42c4c5ec952",
+      "object": "client",
+      "createdAt": "2023-09-12T08:53:10Z",
+      "givenName": "Michelle",
+      "familyName": "Johnson",
+      "email": "michelle.johnson@ssl.health",
+      "companyId": "50114cf4-f3c9-45a7-b9a4-57fdb9e0a9e4",
+      "status": "notInvited",
+      "inviteUrl": "https://portal.reliccare.com/u/G4EUzSmIR",
+      "lastLoginDate": null,
+      "lastActiveDate": null,
+      "customFields": {
+        "guid": "78a50f0f-cce6-17f0-cc9f-bd605ce78292",
+        "title": "Chef"
+      }
+    },
+    {
+      "id": "91f434e9-9bdd-4cc2-bac6-e53400ed3f85",
+      "object": "client",
+      "createdAt": "2023-09-12T08:51:27Z",
+      "givenName": "Dr. Mark",
+      "familyName": "Richardson",
+      "email": "mark.richardson@ssl.health",
+      "companyId": "50114cf4-f3c9-45a7-b9a4-57fdb9e0a9e4",
+      "status": "notInvited",
+      "inviteUrl": "https://portal.reliccare.com/u/GaJYzImSg",
+      "lastLoginDate": null,
+      "lastActiveDate": null,
+      "customFields": {
+        "guid": "b91dc3fd-3ed0-eb50-9376-e9bd9ab26940",
+        "title": "Director of Health Services"
+      }
+    },
+    {
+      "id": "9c3eee7c-51c2-4ab3-b5e9-e89ce78b04f3",
+      "object": "client",
+      "createdAt": "2023-09-12T08:52:34Z",
+      "givenName": "Ryan",
+      "familyName": "Lewis",
+      "email": "ryan.lewis@ssl.health",
+      "companyId": "50114cf4-f3c9-45a7-b9a4-57fdb9e0a9e4",
+      "status": "notInvited",
+      "inviteUrl": "https://portal.reliccare.com/u/Q9bskImIg",
+      "lastLoginDate": null,
+      "lastActiveDate": null,
+      "customFields": {
+        "guid": "d868e198-8ebe-2338-5691-4c1de3421c65",
+        "title": "Director of Lifestyle Services"
+      }
+    },
+    {
+      "id": "bd85123a-652b-4c91-b3eb-f0bbe3d3a2f5",
+      "object": "client",
+      "createdAt": "2023-09-12T08:52:06Z",
+      "givenName": "Jessica",
+      "familyName": "Lambert",
+      "email": "jessica.lambert@ssl.health",
+      "companyId": "50114cf4-f3c9-45a7-b9a4-57fdb9e0a9e4",
+      "status": "notInvited",
+      "inviteUrl": "https://portal.reliccare.com/u/7zsPkImIR",
+      "lastLoginDate": null,
+      "lastActiveDate": null,
+      "customFields": {
+        "guid": "62bb08df-1e20-441c-6fea-94c47a30690a",
+        "title": "Director of Nursing"
+      }
+    },
+    {
+      "id": "40de77f7-bb60-4121-b8c1-6b10e55701d8",
+      "object": "client",
+      "createdAt": "2023-08-04T02:55:17Z",
+      "givenName": "Jane",
+      "familyName": "Doe",
+      "email": "janedoe@copilot.com",
+      "companyId": "66e6f59f-c528-4e68-8746-042f173ed5cc",
+      "status": "invited",
+      "inviteUrl": "https://portal.reliccare.com/u/tsdQ6z6VR",
+      "lastLoginDate": null,
+      "lastActiveDate": null,
+      "customFields": {}
+    },
+    {
+      "id": "98b30fe5-99d3-4747-8094-55236fa7264e",
+      "object": "client",
+      "createdAt": "2023-08-04T02:55:16Z",
+      "givenName": "John",
+      "familyName": "Doe",
+      "email": "johndoe@copilot.com",
+      "companyId": "66e6f59f-c528-4e68-8746-042f173ed5cc",
+      "status": "invited",
+      "inviteUrl": "https://portal.reliccare.com/u/9DOQ6keVR",
+      "lastLoginDate": null,
+      "lastActiveDate": null,
+      "customFields": {}
+    },
+    {
+      "id": "e1ccd5f4-9bd7-4193-9b94-7cd76ae477f6",
+      "object": "client",
+      "createdAt": "2023-08-21T09:54:02Z",
+      "givenName": "patient",
+      "familyName": "one",
+      "email": "patientone@tsmls.org",
+      "companyId": "66e6f59f-c528-4e68-8746-042f173ed5cc",
+      "status": "active",
+      "inviteUrl": "https://portal.reliccare.com/u/OJdAAhRSR",
+      "lastLoginDate": "2023-08-21T09:56:12.130648778Z",
+      "lastActiveDate": "2023-08-22T01:40:19.709743023Z",
+      "customFields": {
+        "phoneNumber": "+19495015943"
+      }
+    },
+    {
+      "id": "c884fb75-b74c-4a58-ad94-39d5763a980f",
+      "object": "client",
+      "createdAt": "2023-09-08T06:17:38Z",
+      "givenName": "Matthew",
+      "familyName": "Orielly",
+      "email": "matthew@reliccare.com",
+      "companyId": "b7fefcaa-a30a-4e1d-b0f2-f4181fee5367",
+      "status": "notInvited",
+      "inviteUrl": "https://portal.reliccare.com/u/fggDo9kSg",
+      "lastLoginDate": null,
+      "lastActiveDate": null,
+      "customFields": {}
+    },
+    {
+      "id": "4e803cc4-a0bd-4295-a179-5f9cdafa4c6c",
+      "object": "client",
+      "createdAt": "2023-08-10T04:30:45Z",
+      "givenName": "Jack",
+      "familyName": "Dorsey",
+      "email": "pankaj@unifydots.com",
+      "companyId": "bc9c7e46-f0f1-481a-a606-f57069035d2b",
+      "status": "invited",
+      "inviteUrl": "https://portal.reliccare.com/u/KGTBaJ64g",
+      "lastLoginDate": null,
+      "lastActiveDate": null,
+      "customFields": {
+        "guid": "7fc4f0ed-3671-9ba3-43ba-f7e8da8ca108"
+      }
+    },
+    {
+      "id": "e92b6222-34da-45a8-b827-11c791fb0d07",
+      "object": "client",
+      "createdAt": "2023-08-04T02:57:43Z",
+      "givenName": "Jane",
+      "familyName": "Austin",
+      "email": "pkverma@hotmail.com",
+      "companyId": "bc9c7e46-f0f1-481a-a606-f57069035d2b",
+      "status": "active",
+      "inviteUrl": "https://portal.reliccare.com/u/qjwC6z64R",
+      "lastLoginDate": "2023-09-08T06:18:58.542780744Z",
+      "lastActiveDate": "2023-09-08T15:14:08.665671642Z",
+      "customFields": {}
+    },
+    {
+      "id": "36118b2b-9932-43a9-863a-c47a9b00f175",
+      "object": "client",
+      "createdAt": "2023-09-12T08:57:34Z",
+      "givenName": "Natalie",
+      "familyName": "Thompson",
+      "email": "natalie.thompson@sdpac.health",
+      "companyId": "be25bb51-3366-4474-b0f3-e8efccc0af05",
+      "status": "notInvited",
+      "inviteUrl": "https://portal.reliccare.com/u/DvsgiIiIg",
+      "lastLoginDate": null,
+      "lastActiveDate": null,
+      "customFields": {
+        "guid": "97899f1d-9c3b-2b90-17b8-400c11ab8f0f",
+        "title": "Director of Social Services"
+      }
+    },
+    {
+      "id": "40adbb30-fafc-41e7-9274-ffc11358a56e",
+      "object": "client",
+      "createdAt": "2023-09-12T08:55:26Z",
+      "givenName": "Mark",
+      "familyName": "Davis",
+      "email": "mark.davis@sdpac.health",
+      "companyId": "be25bb51-3366-4474-b0f3-e8efccc0af05",
+      "status": "notInvited",
+      "inviteUrl": "https://portal.reliccare.com/u/Wr_9zSiSR",
+      "lastLoginDate": null,
+      "lastActiveDate": null,
+      "customFields": {
+        "guid": "055bcb42-de36-4673-6d1a-628d1817dcea",
+        "title": "Administrator"
+      }
+    },
+    {
+      "id": "4dafa77d-727e-4531-98da-b2472b0e3017",
+      "object": "client",
+      "createdAt": "2023-09-12T08:57:05Z",
+      "givenName": "Dr. Sanjay",
+      "familyName": "Patel",
+      "email": "sanjay.patel@sdpac.health",
+      "companyId": "be25bb51-3366-4474-b0f3-e8efccc0af05",
+      "status": "notInvited",
+      "inviteUrl": "https://portal.reliccare.com/u/a3lekSmIg",
+      "lastLoginDate": null,
+      "lastActiveDate": null,
+      "customFields": {
+        "guid": "f1b34fb1-f5e8-f45d-109d-99258979e7c6",
+        "title": "Wound Care Specialist"
+      }
+    },
+    {
+      "id": "73712e5e-9d5f-428f-a77e-bb365fdd00e6",
+      "object": "client",
+      "createdAt": "2023-09-12T08:56:01Z",
+      "givenName": "Jessica",
+      "familyName": "Park",
+      "email": "jessica.park@sdpac.health",
+      "companyId": "be25bb51-3366-4474-b0f3-e8efccc0af05",
+      "status": "notInvited",
+      "inviteUrl": "https://portal.reliccare.com/u/Q09jkSiSg",
+      "lastLoginDate": null,
+      "lastActiveDate": null,
+      "customFields": {
+        "guid": "0ae08855-8e6c-5308-3ab5-da0080b36425",
+        "title": "Director of Nursing"
+      }
+    },
+    {
+      "id": "f408c7cd-63e8-4f1c-8a69-099ee48da05b",
+      "object": "client",
+      "createdAt": "2023-09-12T08:56:33Z",
+      "givenName": "Dr. Linda",
+      "familyName": "Martin",
+      "email": "linda.martin@sdpac.health",
+      "companyId": "be25bb51-3366-4474-b0f3-e8efccc0af05",
+      "status": "notInvited",
+      "inviteUrl": "https://portal.reliccare.com/u/93u3zIiSR",
+      "lastLoginDate": null,
+      "lastActiveDate": null,
+      "customFields": {
+        "guid": "6f35c499-7420-2122-d3b4-ea13cc57669d",
+        "title": "Rehab Director"
+      }
+    }
+  ]
+}

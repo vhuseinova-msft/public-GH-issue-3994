@@ -1,0 +1,70 @@
+[
+  {
+    "kbIdentity": "1",
+    "kbType": "Facility",
+    "searchEnabled": false,
+    "kbObject": {
+      "kbCode": "abc_hospital",
+      "kbTopic": "ABC Hospital"
+    }
+  },
+  {
+    "kbIdentity": "2",
+    "kbType": "Facility",
+    "searchEnabled": false,
+    "kbObject": {
+      "kbCode": "mdh_hospital",
+      "kbTopic": "MDH Hospital"
+    }
+  },
+  {
+    "kbIdentity": "3",
+    "kbType": "Facility",
+    "searchEnabled": false,
+    "kbObject": {
+      "kbCode": "R-92101A-SAN-INFORM",
+      "kbTopic": "San Diego Post-Acute Center"
+    }
+  },
+  {
+    "kbIdentity": "4",
+    "kbType": "Facility",
+    "searchEnabled": false,
+    "kbObject": {
+      "kbCode": "S-90403A-SAN-INFORM",
+      "kbTopic": "Sunrise Senior Living"
+    }
+  },
+  {
+    "kbIdentity": "5",
+    "kbType": "healthconditions",
+    "kbObject": {
+      "kbCode": "S-90403A-SAN-DIABET",
+      "kbTopic": "Diabetes"
+    }
+  },
+   {
+    "kbIdentity": "6",
+    "kbType": "healthconditions",
+    "kbObject": {
+      "kbCode": "R-92101A-SAN-HEARTD",
+      "kbTopic": "Heart Disease"
+    }
+  },
+  {
+    "kbIdentity": "7",
+    "kbType": "healthconditions",
+    "kbObject": {
+      "kbCode": "S-90403A-SAN-HYPERT",
+      "kbTopic": "Hypertension"
+    }
+  },
+  {
+    "kbIdentity": "8",
+    "kbType": "healthconditions",
+    "kbObject": {
+      "kbCode": "R-92101A-SAN-MENTAL",
+      "kbTopic": "Mental Health"
+    }
+  }
+]

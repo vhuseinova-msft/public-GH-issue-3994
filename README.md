@@ -9,6 +9,7 @@ pnpm i
 pnpm run build
 ```
 (Recommended) To analyze bundle and see dependencies that cause Calling SDK to be included run
+Check that `plugins: [new StatoscopeWebpackPlugin()],` is  not commented in webpack.config.js file
 ```
 pnpm run analize3
 ```
@@ -16,6 +17,10 @@ pnpm run analize3
 To see the package bundle with BundleAnalyzer, uncomment it in `webpack.config.js`` and run
 ```
 pnpm run analize2
+```
+or 
+```
+pnpm run analize3
 ```
 
 (Original approach from the Customer) To simply see bundle size, run
